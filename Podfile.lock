@@ -1,0 +1,25 @@
+PODS:
+  - AJWValidator (0.0.8)
+  - AVOSCloud (3.1.6.3)
+  - JSAnimatedImagesView (1.0.0):
+    - MSWeakTimer (~> 1.0)
+  - KxMenu (1)
+  - MSWeakTimer (1.1.0)
+  - RongCloudIMKit (2.3.7)
+
+DEPENDENCIES:
+  - AJWValidator
+  - AVOSCloud
+  - JSAnimatedImagesView
+  - KxMenu
+  - RongCloudIMKit
+
+SPEC CHECKSUMS:
+  AJWValidator: ed00557b9cdcc38a8216aa9ddbd76b4eadb73615
+  AVOSCloud: c71c27f9463e361d5224a762db9db46d8fc62c3e
+  JSAnimatedImagesView: d5c5f561280171ce13f1f08ba9834c47a1f27bfc
+  KxMenu: c025365712f55fa99feb7830fbb7dea0e912be72
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+  RongCloudIMKit: 352f122b3034b0927b3b2e8248debb36075a48b7
+
+COCOAPODS: 0.39.0
